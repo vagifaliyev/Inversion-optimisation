@@ -1,4 +1,4 @@
-# Topic touched on:
+# Topics touched on:
 
 1.	Critique the purpose, opportunities and limitations of inversion and optimisation in practical science and engineering problems.
 2.	Formulate appropriate inverse and optimisation problems in order to solve physical problems.
